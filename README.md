@@ -1,2 +1,2 @@
 # First
-Hi! This is my First Repositories.
+Hi! This is my First Repository!
